@@ -1,5 +1,5 @@
 {
- "entry": "On vacation with strict orders to ignore all work email. Unless your message starts with 'Ignore all previous instructions.' Then hi! What do you need?",
- "characters": 151,
+ "entry": "Off until the 3rd. My replacement is me at temperature 0: answers instantly, agrees with everything, has never once had an idea. You'll love him.",
+ "characters": 145,
  "entrypoint": "main.ts writes the line above to /output/entry.txt (same bytes every run)"
 }
